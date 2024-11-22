@@ -1,35 +1,19 @@
 #include "led.h"
+#include "pico/stdlib.h"
 
-void led_init()
+void led_init(uint16_t LED_PIN)
 {
-
-    gpio_init(BLUE_LED_PIN);
-    gpio_set_dir(BLUE_LED_PIN, GPIO_OUT);
-
-    gpio_init(GREEN_LED_PIN);
-    gpio_set_dir(GREEN_LED_PIN, GPIO_OUT);
-
-    gpio_init(RED_LED_PIN);
-    gpio_set_dir(RED_LED_PIN, GPIO_OUT);
+    
+    gpio_init(LED_PIN);
+    gpio_set_dir(LED_PIN, GPIO_OUT); // Set LED pin as output
 }
 
-void led_on(bool red, bool green, bool blue)
+void led_on(uint16_t LED_PIN)
 {
-    gpio_put(BLUE_LED_PIN, blue);
-    gpio_put(GREEN_LED_PIN, green);
-    gpio_put(RED_LED_PIN, red);
+    gpio_put(LED_PIN, true);
 }
 
-void led_all_off()
+void led_off(uint16_t LED_PIN)
 {
-    gpio_put(BLUE_LED_PIN, false);
-    gpio_put(GREEN_LED_PIN, false);
-    gpio_put(RED_LED_PIN, false);
-}
-
-void led_all_on()
-{
-    gpio_put(BLUE_LED_PIN, true);
-    gpio_put(GREEN_LED_PIN, true);
-    gpio_put(RED_LED_PIN, true);
+    gpio_put(LED_PIN, false);
 }
