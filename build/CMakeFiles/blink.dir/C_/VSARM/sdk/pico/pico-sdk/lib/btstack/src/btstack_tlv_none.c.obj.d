@@ -1,0 +1,24 @@
+CMakeFiles/blink.dir/C_/VSARM/sdk/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj: \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_tlv_none.c \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_tlv.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\machine\_default_types.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\features.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\_newlib_version.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_intsup.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_stdint.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_tlv_none.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_debug.h \
+ C:\Malek\blink/btstack_config.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_defines.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_linked_list.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\btstack_bool.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
+ C:\VSARM\sdk\pico\pico-sdk\lib\btstack\src\hci_dump.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\assert.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\_ansi.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\newlib.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\config.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\machine\ieeefp.h

@@ -1,0 +1,5 @@
+C:/Malek/blink/build/_deps/picotool/picotool.exe
+C:/Malek/blink/build/_deps/picotool/picotoolTargets.cmake
+C:/Malek/blink/build/_deps/picotool/picotoolTargets-release.cmake
+C:/Malek/blink/build/_deps/picotool/picotoolConfig.cmake
+C:/Malek/blink/build/_deps/picotool/picotoolConfigVersion.cmake
