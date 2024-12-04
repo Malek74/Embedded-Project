@@ -4,7 +4,7 @@
 
 // Private helper functions
 static void lcd_pulse_enable(void);
-static void lcd_send_nibble(uint8_t nibble);
+// static void lcd_send_nibble(uint8_t nibble);
 
 // func to init lcd
 void lcd_init(void)
