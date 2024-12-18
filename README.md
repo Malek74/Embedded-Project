@@ -33,9 +33,9 @@ The system is composed of:
 
 ## Hardware Components
 ### Component List
-1. **Infrared Sensor**: [Datasheet](https://example.com/infrared-sensor-datasheet)
-2. **Ultrasonic Sensor (HC-SR04)**: [Datasheet](https://example.com/ultrasonic-sensor-datasheet)
-3. **MPU6050 Gyroscope**: [Datasheet](https://example.com/mpu6050-datasheet)
+1. **Infrared Sensor**
+2. **Ultrasonic Sensor (HC-SR04)**
+3. **MPU6050 Gyroscope**
 4. **LEDs (Brake Lights)**: General-purpose LEDs.
 5. **LCD Screen**: 16x2 character LCD.
 
