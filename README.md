@@ -39,9 +39,6 @@ The system is composed of:
 4. **LEDs (Brake Lights)**: General-purpose LEDs.
 5. **LCD Screen**: 16x2 character LCD.
 
-### Connection Diagrams
-Refer to the `/hardware` folder for detailed connection diagrams.
-
 ---
 
 ## Software Requirements
